@@ -19,6 +19,6 @@ override.tf.json
 *_override.tf
 *_override.tf.json
 
-# исключить файлы с расширением Ignore CLI configuration files
+# исключить файл .terraformrm и terraform.rc
 .terraformrc
 terraform.rc
